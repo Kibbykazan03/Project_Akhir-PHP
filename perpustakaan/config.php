@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$user = 'root';  // Default XAMPP
+$user = 'root';  // Default Xampp
 $pass = '';      // Kosongkan jika default
 $db = 'perpustakaan';
 
